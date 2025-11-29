@@ -1,4 +1,4 @@
-# Sem-PoliBehav
+# Seminar on Political Behavior
 This repository is for "Seminar on Political Behavior", which is a seminar I organize for other undergraduate students at National Taiwan University (NTU) (under NTU PSSA) during 2025-26 academic year. You can find the reading list, slides, and reading materials for this seminar here.
 
 Here are some awesome resources about quantitative reasoning/research design/causal inference/experiments in political science:
