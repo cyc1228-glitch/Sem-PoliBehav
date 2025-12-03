@@ -6,7 +6,7 @@ Here are some awesome resources about quantitative reasoning/research design/cau
 ## Basics in Quantitative Reasoning
 Llaudet, Elena, and Kosuke Imai. 2023. *Data Analysis for Social Science: A Friendly and Practical Introduction.* Princeton, NJ: Princeton University Press. [LINK](https://press.princeton.edu/books/paperback/9780691199436/data-analysis-for-social-science)
 
-Imai, Kosuke, and Nora Webb Williams. 2022. *Quantitative Social Science: An Introduction in tidyverse.* Princeton, NJ: Princeton University Press. [LINK]([https://www.genome.gov/](https://press.princeton.edu/books/hardcover/9780691222271/quantitative-social-science?srsltid=AfmBOorJ1SwZ3PR8s1FzIjhOpLC2Lon5oWNBQ7i33aP_ni0t22C4-7xM))
+Imai, Kosuke, and Nora Webb Williams. 2022. *Quantitative Social Science: An Introduction in tidyverse.* Princeton, NJ: Princeton University Press. [LINK](https://press.princeton.edu/books/hardcover/9780691222271/quantitative-social-science?srsltid=AfmBOorJ1SwZ3PR8s1FzIjhOpLC2Lon5oWNBQ7i33aP_ni0t22C4-7xM)
 
 GOV 51 @Harvard (Instructor: Matthew Blackwell) [LINK](https://gov51.mattblackwell.org/)
 In my view, this course is more practical and helpful than the social statistics course we have @NTU. This website contains lecture slides, lecture videos, tutorials and problem sets in R. This is basically a great course for learning, both in basic understandings of the role of quantitative methods in political science and skills in R.
